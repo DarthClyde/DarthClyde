@@ -2,7 +2,7 @@
 <h3 align="center">I like to code and have exercise in many coding languages</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rcaudillo](https://github.com/rcaudillo)
-- 💼💻 View my portfolio at [https://rcaudillo.github.io/](https://rcaudillo.github.io/)
+- 💼 View my portfolio at [https://rcaudillo.github.io/](https://rcaudillo.github.io/)
 
 
 <h3 align="left">Languages and Tools:</h3>
