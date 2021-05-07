@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Not Ready to say my name]</h1>
-<h3 align="center">I like to code and have exercise in many coding languages</h3>
+<h1 align="center">Hi 👋, welcome to my GitHub</h1>
+<h3 align="center">I like to code in my extra time</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rcaudillo](https://github.com/rcaudillo)
 
