@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, welcome to my GitHub</h1>
-<h3 align="center">I like to code in my extra time</h3>
+<h3 align="center">I like to code in my extra time, Currently Learing C++</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rcaudillo](https://github.com/rcaudillo)
 - 💼 View my portfolio at [https://rcaudillo.github.io/](https://rcaudillo.github.io/)
