@@ -2,7 +2,7 @@
 
 - I’m currently working on [Simplify Engine](https://github.com/rcaudillo/Simplify_Engine)
 
-- I’m currently learning **C++ & OpenGL**
+- I’m currently learning **C++ & DX11/12**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rcaudillo](https://github.com/rcaudillo)
 
